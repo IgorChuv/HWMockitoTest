@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ru.netology.i18n.LocalizationServiceImplTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-05-06T20:28:38" hostname="DESKTOP-LQ5TKJ3" time="0.574">
+  <properties/>
+  <testcase name="localeOtherTest()" classname="ru.netology.i18n.LocalizationServiceImplTest" time="0.574"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
